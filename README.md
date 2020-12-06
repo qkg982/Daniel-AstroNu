@@ -1,3 +1,3 @@
-# hello-world
-Noob script
-Jeg hedder Daniel og kan godt lide øl
+# AstroNu
+Sterile neutrino
+Active-sterile conversion BH forming CCSN
